@@ -330,4 +330,4 @@ if audio_file:
                 st.rerun()
 
 st.markdown("---")
-st.caption("🚀 LectureMind AI Pro | Built with Streamlit + Gemini")
+st.caption("🚀 Lecture Voice to Notes Assistant| Built with Streamlit + Gemini")
