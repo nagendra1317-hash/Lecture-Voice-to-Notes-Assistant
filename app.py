@@ -137,7 +137,7 @@ with st.sidebar:
 
     st.markdown("---")
 
-    st.link_button("🌐 GitHub", "https://github.com/NagendraSahani/Lecture-Voice-to-Notes-Assistant/")
+    st.link_button("🌐 GitHub", "https://github.com/NagendraSahani/Lecture-Voice-to-Notes-Assistant")
     st.link_button("💼 LinkedIn", "https://www.linkedin.com/in/nagendra-sahani-293503188/")
 
 
