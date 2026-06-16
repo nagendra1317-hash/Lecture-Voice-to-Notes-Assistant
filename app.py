@@ -132,7 +132,7 @@ with st.sidebar:
 
     st.subheader("📖 About")
     st.info(
-        "LectureMind AI converts lecture recordings into structured study material."
+        "Lecture Voice-to-Notes Assistant is an AI-powered learning tool designed to transform lecture recordings into structured study materials. The application automatically transcribes audio, generates concise notes, creates summaries, and prepares quizzes to help students review and retain concepts more effectively. By reducing manual note-taking effort, it enables learners to focus on understanding and engaging with the lecture content."
     )
 
     st.markdown("---")
